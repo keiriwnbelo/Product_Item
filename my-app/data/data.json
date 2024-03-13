@@ -1,0 +1,19 @@
+{
+  "product": [
+    {
+      "productId": 1,
+      "productName": "Apple",
+      "cost": "12",
+      "quantity": "3",
+      "id": "5673",
+      "amount": "50"
+    },
+    {
+      "productId": 2,
+      "productName": "Banana",
+      "cost": "99",
+      "quantity": "23",
+      "amount": "100"
+    }
+  ]
+}
